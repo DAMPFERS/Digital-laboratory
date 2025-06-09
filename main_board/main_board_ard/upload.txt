@@ -1,0 +1,6 @@
+C:\Users\vladr\.platformio\packages\tool-esptoolpy>python esptool.py --port COM3 --baud 115200 write_flash -z 0x1000 "C:\PROGRAMS\Microcontrollers\ESP32\Test\.pio\build\esp32dev\firmware.bin"
+
+
+
+esptool.py --port COM3 flash_id
+C:\Users\vladr\.platformio\packages\tool-esptoolpy>python esptool.py --port COM3 flash_id
